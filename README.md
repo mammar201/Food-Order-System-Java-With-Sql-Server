@@ -2,9 +2,11 @@
 #INSTRUCTIONS
 
 1.For using this project you will need Sql Server 2012.Follow below video to install it properly.
+
 https://www.youtube.com/watch?v=vng0P8Gfx2g
 
 2.After that you will have to enable Sql Server Authentication.Follow below video to do it properly.
+
 https://www.youtube.com/watch?v=dJ6c3OgIVDM
 
 3.Then after creating sql server you will need to put your Sql Server Config in code for sql server to connect.
