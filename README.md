@@ -12,6 +12,8 @@ https://www.youtube.com/watch?v=dJ6c3OgIVDM
 3.Then after creating sql server you will need to put your Sql Server Config in code for sql server to connect.
 Go to ConnectionAdapterClass and all the classes containing url variable and change this variable value to yours.
 
+4.Start Project by running Login_RegisterMain file.
+
 
 
 
