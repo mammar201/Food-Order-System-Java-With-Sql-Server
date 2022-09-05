@@ -1,10 +1,15 @@
 #DETAILS
+
 This Project Uses Following things.
+
 1.SQL Server.
+
 2.Five Design Pattern Implemented In Java.
+
 3.Uses Database Sql Queries.
 
-#################Check Project Report For More Details#################
+
+###################################################   Check Project Report For More Details   ###################################################
 
 
 
