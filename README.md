@@ -1,3 +1,16 @@
+#DETAILS
+This Project Uses Following things.
+1.SQL Server.
+2.Five Design Pattern Implemented In Java.
+3.Uses Database Sql Queries.
+
+#################Check Project Report For More Details#################
+
+
+
+
+
+
 # Food-Order-System-Java-With-Sql-Server
 #INSTRUCTIONS
 
@@ -13,6 +26,8 @@ https://www.youtube.com/watch?v=dJ6c3OgIVDM
 Go to ConnectionAdapterClass and all the classes containing url variable and change this variable value to yours.
 
 4.Start Project by running Login_RegisterMain file.
+
+5.Make Sure That All Images Paths in TemplatePattern_ItemDetails Class Is Correct.
 
 
 
