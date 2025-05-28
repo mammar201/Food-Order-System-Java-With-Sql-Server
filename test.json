@@ -1,5 +1,23 @@
+void setup() {
+  Serial.begin(115200);
+  ac.begin();
+
+  pinMode(switchPin, OUTPUT);
+  digitalWrite(switchPin, HIGH);  // Default to ON (assuming HIGH = ON)
+
+  WiFi.begin(ssid, password);
+  Serial.print("Connecting to WiFi");
+  while (WiFi.status() != WL_CONNECTED) {
+    delay(500);
+    Serial.print(".");
+  if(ESP32Status=true){
+  setup();
+  }else{
 http://192.168.1.101/handleSwitchOff()
 http://192.168.1.102/handleSwitchOff()
 http://192.168.1.103/handleSwitchOff()
 http://192.168.1.104/handleSwitchOff()
 http://192.168.1.105/handleSwitchOff()
+
+  }
+
