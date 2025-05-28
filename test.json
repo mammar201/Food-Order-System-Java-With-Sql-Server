@@ -10,7 +10,7 @@ void setup() {
   while (WiFi.status() != WL_CONNECTED) {
     delay(500);
     Serial.print(".");
-  if(ESP32Status=true){
+  if(ESP32Status=false){
   setup();
   }else{
 http://192.168.1.101/handleSwitchOff()
